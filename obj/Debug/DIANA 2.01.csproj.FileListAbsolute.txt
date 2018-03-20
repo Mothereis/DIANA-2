@@ -1,0 +1,22 @@
+C:\Users\mothe\source\repos\DIANA 2.01\DIANA 2.01\bin\Debug\DIANA 2.01.exe.config
+C:\Users\mothe\source\repos\DIANA 2.01\DIANA 2.01\bin\Debug\DIANA 2.01.exe.manifest
+C:\Users\mothe\source\repos\DIANA 2.01\DIANA 2.01\bin\Debug\DIANA 2.01.application
+C:\Users\mothe\source\repos\DIANA 2.01\DIANA 2.01\bin\Debug\DIANA 2.01.exe
+C:\Users\mothe\source\repos\DIANA 2.01\DIANA 2.01\bin\Debug\DIANA 2.01.pdb
+C:\Users\mothe\source\repos\DIANA 2.01\DIANA 2.01\bin\Debug\Microsoft.Speech.dll
+C:\Users\mothe\source\repos\DIANA 2.01\DIANA 2.01\obj\Debug\Interop.WMPLib.dll
+C:\Users\mothe\source\repos\DIANA 2.01\DIANA 2.01\obj\Debug\DIANA 2.01.csproj.ResolveComReference.cache
+C:\Users\mothe\source\repos\DIANA 2.01\DIANA 2.01\obj\Debug\DIANA_2._01.Agenda.resources
+C:\Users\mothe\source\repos\DIANA 2.01\DIANA 2.01\obj\Debug\DIANA_2._01.ComandSocial.resources
+C:\Users\mothe\source\repos\DIANA 2.01\DIANA 2.01\obj\Debug\DIANA_2._01.Diana.resources
+C:\Users\mothe\source\repos\DIANA 2.01\DIANA 2.01\obj\Debug\DIANA_2._01.Alarme.resources
+C:\Users\mothe\source\repos\DIANA 2.01\DIANA 2.01\obj\Debug\DIANA_2._01.INFO.resources
+C:\Users\mothe\source\repos\DIANA 2.01\DIANA 2.01\obj\Debug\DIANA_2._01.Properties.Resources.resources
+C:\Users\mothe\source\repos\DIANA 2.01\DIANA 2.01\obj\Debug\DIANA_2._01.SelecVoz.resources
+C:\Users\mothe\source\repos\DIANA 2.01\DIANA 2.01\obj\Debug\DIANA 2.01.csproj.GenerateResource.Cache
+C:\Users\mothe\source\repos\DIANA 2.01\DIANA 2.01\obj\Debug\DIANA 2.01.csproj.CoreCompileInputs.cache
+C:\Users\mothe\source\repos\DIANA 2.01\DIANA 2.01\obj\Debug\DIANA 2.01.exe.manifest
+C:\Users\mothe\source\repos\DIANA 2.01\DIANA 2.01\obj\Debug\DIANA 2.01.application
+C:\Users\mothe\source\repos\DIANA 2.01\DIANA 2.01\obj\Debug\DIANA 2.01.exe
+C:\Users\mothe\source\repos\DIANA 2.01\DIANA 2.01\obj\Debug\DIANA 2.01.pdb
+C:\Users\mothe\source\repos\DIANA 2.01\DIANA 2.01\obj\Debug\DIANA 2.01.csprojResolveAssemblyReference.cache
